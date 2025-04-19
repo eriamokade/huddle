@@ -1,0 +1,66 @@
+.h1first{
+    font-weight: bolder;
+}
+.firstb{
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+.h1second{
+    font-size: xx-large;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+     align-items:center ;
+     padding: 10px;
+
+     
+}
+
+.div3{
+    display: flex;
+}
+
+.button2{
+    background-color: hotpink;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.hero-section{
+display: flex;
+gap: 50px;
+justify-content: space-between;
+margin-top: 50px;
+}
+
+
+
+.container{
+    background-color: whitesmoke;
+    padding: 30px;
+    d;
+}
+.img1{
+    width: 400px;
+    height: 300px;
+}
+.grow-together{
+    height: 300px;
+    width: 400px;
+    justify-content: space-between;
+}
+.flowing-conversations{
+    height: 300px;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.div4{
+    display:   fle;
+}
+.div5{
+    display: flex;
+}
